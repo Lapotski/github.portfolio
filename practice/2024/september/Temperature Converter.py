@@ -14,7 +14,7 @@ while cont.lower() == "true":
         print(f"Temperature in Fahrenheit: {fahrenheit:.2f}°F")
     elif option == 2:
         temps = float(input("Enter temperature in Fahrenheit: "))
-        celsius = (temps - 32) * 5/9  # Fixed spelling
+        celsius = (temps - 32) * 5/9 
         print(f"Temperature in Celsius: {celsius:.2f}°C")
     else:
         print("Invalid Option")
