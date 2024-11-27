@@ -19,7 +19,7 @@ for word in lower_set:
 lower_set = list(lower_set)
 
 # Display intended outputs
-print("===============================================")
+print("===============================================\n")
 print(f'List of words: {words_list}\n')
 print(f'Sorted list of words: {sorted_words}\n')
 print(f'Word Count: {dict(zip(lower_set, counted_value))}\n')
