@@ -1,0 +1,58 @@
+{
+    "player_name": "1",
+    "character_name": "1",
+    "starting_level": 2,
+    "race": "Human",
+    "alignment": "Chaotic Good",
+    "class": "\u26d1\ufe0f Cleric",
+    "subclass": "Life Domain",
+    "background": "\ud83d\udc7b Haunted One",
+    "stats": {
+        "Strength": 11,
+        "Dexterity": 11,
+        "Constitution": 13,
+        "Intelligence": 14,
+        "Wisdom": 16,
+        "Charisma": 19
+    },
+    "class_skills": [
+        "Medicine",
+        "Insight"
+    ],
+    "total_proficiencies": [
+        "Arcana",
+        "Insight",
+        "Intimidation",
+        "Medicine"
+    ],
+    "skill_modifiers": {
+        "Acrobatics": 0,
+        "Animal Handling": 3,
+        "Arcana": 4,
+        "Athletics": 0,
+        "Deception": 4,
+        "History": 2,
+        "Insight": 5,
+        "Intimidation": 6,
+        "Investigation": 2,
+        "Medicine": 5,
+        "Nature": 2,
+        "Perception": 3,
+        "Performance": 4,
+        "Persuasion": 4,
+        "Religion": 2,
+        "Sleight of Hand": 0,
+        "Stealth": 0,
+        "Survival": 3
+    },
+    "class_features": {
+        "Level 1": {
+            "Divine Domain": "Choose your divine domain at level 1, which defines your divine magic and abilities.",
+            "Spellcasting": "You can prepare and cast spells using Wisdom as your spellcasting ability."
+        },
+        "Level 2": {
+            "Channel Divinity": "You can use your Channel Divinity to perform powerful effects, usable once per short or long rest."
+        }
+    },
+    "race_features": "\nRace: Human\nDescription: Versatile and ambitious, humans excel in many fields.\nSize: Medium\nAbility Score Increase (ASI): Strength +1, Dexterity +1, Constitution +1, Intelligence +1, Wisdom +1, Charisma +1\nFeatures:\n  Versatile (any two ability scores of your choice each increase by 1)\nSkills: None\nLanguages: Common\n"
+}
